@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Potale;Machine+Learning+%26+Full-Stack+Developer;I+build+real%2C+shipped+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2C3E50&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Potale;Machine+Learning+%26+Full-Stack+Developer;I+build+real%2C+shipped+products" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SahilPotale1405&label=Profile%20Views&color=2C3E50&style=flat" alt="profile views" />
